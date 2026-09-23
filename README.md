@@ -20,7 +20,7 @@ analysis
 #### Additional technologies I've used
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,java,php,gcp,aws,flask,androidstudio,arduino,raspberrypi,opencv,jenkins,mysql,r,supabase,unity&theme=light&perline=18" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,php,gcp,aws,flask,androidstudio,arduino,raspberrypi,opencv,jenkins,mysql,r,supabase,unity&theme=light&perline=18" />
   </a>
 </div>
 
